@@ -1,0 +1,15 @@
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.AssemblyInfo.cs
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.sourcelink.json
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\bin\Debug\net9.0\Exercicio04.exe
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\bin\Debug\net9.0\Exercicio04.deps.json
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\bin\Debug\net9.0\Exercicio04.runtimeconfig.json
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\bin\Debug\net9.0\Exercicio04.dll
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\bin\Debug\net9.0\Exercicio04.pdb
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.dll
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\refint\Exercicio04.dll
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.pdb
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\Exercicio04.genruntimeconfig.cache
+C:\Users\agabo\Área de Trabalho\2 Periodo\Linguagem e Técnicas de Programação I\Structs\Lista01\Exercicio04\obj\Debug\net9.0\ref\Exercicio04.dll
