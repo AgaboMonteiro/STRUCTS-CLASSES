@@ -44,11 +44,11 @@ namespace ControleJogos
 
                     jogos[i] = j;
                 }
-                Console.WriteLine("✅ Dados carregados com sucesso!");
+                Console.WriteLine(" Dados carregados com sucesso!");
             }
             else
             {
-                Console.WriteLine("⚠️ Arquivo não encontrado, será criado ao salvar.");
+                Console.WriteLine(" Arquivo não encontrado, será criado ao salvar.");
             }
         }
 
@@ -65,7 +65,7 @@ namespace ControleJogos
                     }
                 }
             }
-            Console.WriteLine("💾 Dados salvos com sucesso!");
+            Console.WriteLine(" Dados salvos com sucesso!");
         }
 
         static int procurarJogo(Jogo[] jogos, string titulo)
@@ -170,7 +170,7 @@ namespace ControleJogos
                             jogos[pos].InfoEmprestimo.NomePessoa = Console.ReadLine();
                             jogos[pos].InfoEmprestimo.Data = DateTime.Now.ToString("dd/MM/yyyy");
                             jogos[pos].InfoEmprestimo.Emprestado = true;
-                            Console.WriteLine("📦 Empréstimo registrado com sucesso!");
+                            Console.WriteLine(" Empréstimo registrado com sucesso!");
                         }
                         else Console.WriteLine("Jogo não encontrado ou já emprestado!");
                         break;
@@ -184,7 +184,7 @@ namespace ControleJogos
                             jogos[pos].InfoEmprestimo.Emprestado = false;
                             jogos[pos].InfoEmprestimo.NomePessoa = "-";
                             jogos[pos].InfoEmprestimo.Data = "-";
-                            Console.WriteLine("✅ Jogo devolvido com sucesso!");
+                            Console.WriteLine(" Jogo devolvido com sucesso!");
                         }
                         else Console.WriteLine("Jogo não encontrado ou não emprestado!");
                         break;
@@ -195,7 +195,7 @@ namespace ControleJogos
 
                     case 0:
                         salvarDados(jogos, "jogos.txt");
-                        Console.WriteLine("👋 Saindo do sistema...");
+                        Console.WriteLine(" Saindo do sistema...");
                         break;
 
                     default:
